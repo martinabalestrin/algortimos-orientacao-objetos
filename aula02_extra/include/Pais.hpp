@@ -29,9 +29,7 @@ class Pais {
         void adicionarPaisFronteira(Pais &pais);
         bool verificaPaisFronteira(const Pais &pais) const;
         double densidade() const;
-        vector<string> comparaFronteiras(const Pais &pais) const; // comparar vetores de string dos paises e retornar lista com os paises
-                                            // que aparecem nas duas listas
-
+        vector<string> comparaFronteiras(const Pais &pais) const;
 
     private:
         // Atributos
