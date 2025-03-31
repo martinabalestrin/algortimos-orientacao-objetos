@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,31 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Aluno.hpp" />
+		<Unit filename="include/Atleta.hpp" />
+		<Unit filename="include/Banana.hpp" />
+		<Unit filename="include/Competicao.hpp" />
+		<Unit filename="include/Corredor.hpp" />
+		<Unit filename="include/Data.hpp" />
+		<Unit filename="include/Fruta.hpp" />
+		<Unit filename="include/InformacoesAtleta.hpp" />
+		<Unit filename="include/Melancia.hpp" />
+		<Unit filename="include/Nadador.hpp" />
+		<Unit filename="include/Pessoa.hpp" />
+		<Unit filename="include/Programador.hpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Aluno.cpp" />
+		<Unit filename="src/Atleta.cpp" />
+		<Unit filename="src/Banana.cpp" />
+		<Unit filename="src/Competicao.cpp" />
+		<Unit filename="src/Corredor.cpp" />
+		<Unit filename="src/Data.cpp" />
+		<Unit filename="src/Fruta.cpp" />
+		<Unit filename="src/InformacoesAtleta.cpp" />
+		<Unit filename="src/Melancia.cpp" />
+		<Unit filename="src/Nadador.cpp" />
+		<Unit filename="src/Pessoa.cpp" />
+		<Unit filename="src/Programador.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

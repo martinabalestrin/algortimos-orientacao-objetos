@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1743445905 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula02_extra\main.cpp
+	<iostream>
+	<string>
+	<locale>
+	"Pais.hpp"
+
+1743446435 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula02_extra\src\pais.cpp
+	"Pais.hpp"
+	<iostream>
+
+1743445957 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula02_extra\include\pais.hpp
+	<string>
+	<vector>
+
