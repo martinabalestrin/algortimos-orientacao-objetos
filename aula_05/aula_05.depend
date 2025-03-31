@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1743276012 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\atleta.cpp
+	"Atleta.hpp"
+	<iostream>
+
+1743380577 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\atleta.hpp
+	<string>
+
+1743378750 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\data.cpp
+	"Data.hpp"
+	<iostream>
+
+1743280372 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\data.hpp
+
+1743399892 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\main.cpp
+	<iostream>
+	<locale.h>
+	"Atleta.hpp"
+	"Data.hpp"
+	"Nadador.hpp"
+	"Corredor.hpp"
+	"Competicao.hpp"
+	"InformacoesAtleta.hpp"
+	"Fruta.hpp"
+	"Banana.hpp"
+	"Melancia.hpp"
+	"Pessoa.hpp"
+	"Programador.hpp"
+	"Aluno.hpp"
+
+1743381707 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\nadador.cpp
+	"Nadador.hpp"
+	<iostream>
+
+1743381708 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\nadador.hpp
+	<string>
+	"Atleta.hpp"
+
+1743381665 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\corredor.cpp
+	"Corredor.hpp"
+	<iostream>
+
+1743381661 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\corredor.hpp
+	"Atleta.hpp"
+	"Competicao.hpp"
+	<string>
+
+1743381520 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\competicao.cpp
+	"Competicao.hpp"
+	<iostream>
+
+1743381537 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\competicao.hpp
+	<string>
+	"Data.hpp"
+
+1743382364 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\informacoesatleta.hpp
+	"Atleta.hpp"
+	"Nadador.hpp"
+	"Corredor.hpp"
+	<string>
+
+1743382435 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\informacoesatleta.cpp
+	"InformacoesAtleta.hpp"
+	<iostream>
+
+1743396347 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\banana.cpp
+	"Banana.hpp"
+	<iostream>
+
+1743396347 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\banana.hpp
+	"Fruta.hpp"
+	<string>
+
+1743396461 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\fruta.hpp
+	<string>
+
+1743396347 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\fruta.cpp
+	"Fruta.hpp"
+	<iostream>
+
+1743396960 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\melancia.cpp
+	"Melancia.hpp"
+
+1743396407 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\melancia.hpp
+	"Fruta.hpp"
+
+1743399229 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\pessoa.cpp
+	"Pessoa.hpp"
+	<iostream>
+
+1743399229 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\pessoa.hpp
+	<string>
+
+1743398436 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\programador.hpp
+	"Pessoa.hpp"
+	<string>
+
+1743398154 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\programador.cpp
+	"Programador.hpp"
+	<iostream>
+
+1743398974 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\src\aluno.cpp
+	"Aluno.hpp"
+	<iostream>
+
+1743398966 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\aula_05\include\aluno.hpp
+	"Pessoa.hpp"
+
