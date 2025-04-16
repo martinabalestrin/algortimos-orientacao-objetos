@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1744744014 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\src\jogo.cpp
+	<iostream>
+	"Jogo.hpp"
+
+1744742270 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\include\jogo.hpp
+
+1744769136 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\main.cpp
+	<iostream>
+	<locale.h>
+	"Jogo.hpp"
+	"ArquivoCena.hpp"
+	"Cena.hpp"
+	"Personagem.hpp"
+
+1744769119 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\src\arquivocena.cpp
+	<iostream>
+	"ArquivoCena.hpp"
+
+1744769499 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\include\arquivocena.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string.h>
+	"Cena.hpp"
+
+1744743802 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\src\personagem.cpp
+	<iostream>
+	"Personagem.hpp"
+
+1744768847 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\include\personagem.hpp
+	<string.h>
+
+1744767636 source:c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\src\cena.cpp
+	"Cena.hpp"
+
+1744768949 c:\users\roberto\desktop\faculdade\sem3 - ap oo\algortimos-orientacao-objetos\rpg_graua\include\cena.hpp
+	<string.h>
+	<string>
+

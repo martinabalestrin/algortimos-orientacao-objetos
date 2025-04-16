@@ -1,0 +1,6 @@
+#1
+Ao entrar na cidade, você chega diante dos portões da grandiosa Cidadela do Caos. 
+Diante disso, tem que fazer uma escolha sobre qual caminho deseja seguir.
+
+#2: Entrar pelo portão principal
+#3: Procurar uma entrada secreta pelos fundos
