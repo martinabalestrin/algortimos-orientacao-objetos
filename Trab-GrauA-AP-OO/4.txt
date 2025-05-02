@@ -1,0 +1,13 @@
+m
+O Goblin rosna, avançando em minha direção com passos curtos e rápidos. Ele gira a lança entre os dedos sujos, como se aquilo fosse uma extensão do próprio corpo. Suas orelhas pontudas se agitam, captando cada som que faço. Tento recuar, mas ele já está perto demais. Seus olhos amarelados brilham com malícia — ele quer luta.
+
+A sala ao redor parece encolher, as colunas lançando sombras que dançam com a chama trêmula de uma tocha caída. Não há para onde correr. Ou luto, ou morro.
+
+N: Goblin
+H: 3
+S: 5
+E: 25
+T: 100
+P: 7
+I: Adaga;w;1;2;10
+6;5

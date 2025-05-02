@@ -1,0 +1,9 @@
+m
+A batalha começa com uma explosão de energia. Malrik flutua acima do chão, envolto em sombras vivas. Ele ataca com magias corrompidas, invocando lanças de trevas e espelhos ilusórios que distorcem a realidade ao seu redor.
+
+N: Malrik
+H: 9
+E: 85
+S: 7
+T: 2500
+25;24

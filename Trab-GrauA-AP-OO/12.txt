@@ -1,0 +1,14 @@
+m
+Nos encaramos por um instante. Meu reflexo replica cada movimento com precisão demoníaca — como se previsse cada pensamento meu antes mesmo de eu agir. Então, sem aviso, ele ataca. A lâmina encontra a minha, e o som do choque de aço ecoa pelo salão.
+
+Cada golpe que dou é respondido com igual intensidade. Mas ele não é só minha cópia... ele é mais cruel. Ele não hesita. Não duvida. Ele conhece minhas falhas.
+
+A batalha é inevitável. Eu preciso vencer... ou ser consumido por mim mesmo.
+
+N: Meu próprio reflexo
+H: 5
+E: 45
+S: 6
+T: 500
+P: 10
+14;13

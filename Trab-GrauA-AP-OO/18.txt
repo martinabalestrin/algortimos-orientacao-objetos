@@ -1,0 +1,11 @@
+m
+A batalha começa, e o Minotauro ataca com uma força aterradora. Você se esquiva de um golpe devastador da clava, mas o impacto da sua presença faz o chão tremer sob seus pés. Ele faz um novo ataque com sua clava, tentando esmagá-lo contra o chão. Você precisa reagir rápido para não ser atingido.
+
+N: Minotauro
+H: 8
+E: 70
+S: 2
+T: 1000
+P: 18
+I: Chifre do Minotauro;c;0;0;0
+20;19

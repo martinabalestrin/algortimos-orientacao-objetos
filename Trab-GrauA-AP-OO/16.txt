@@ -1,0 +1,8 @@
+#16
+Ao tocar o totem, uma energia invade minha mente. Uma visão de eras antigas me revela um encantamento esquecido.
+
+Você aprende a magia "Raio Divino".
+
+I: Raio Divino;m;0;0;35
+
+#17: Sair da biblioteca e seguir caminho
