@@ -19,10 +19,6 @@ int Inimigo::atacar() {
     return dano;
 }
 
-bool Inimigo::defender() {
-    std::cout << nome << " (Inimigo) tenta se defender." << std::endl;
-}
-
 bool Inimigo::temDrop() const {
     return true;
 }

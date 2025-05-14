@@ -24,7 +24,7 @@ class Jogador: public Personagem {
 
         // Métodos de Personagem
         int atacar() override;
-        bool defender() override;
+        bool defender();
         void receberDano(int dano) override;
 
         // Métodos

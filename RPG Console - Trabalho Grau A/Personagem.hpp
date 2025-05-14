@@ -20,7 +20,6 @@ public:
 
     // Métodos virtuais
     virtual int atacar() = 0;
-    virtual bool defender() = 0;
     virtual void receberDano(int dano);
 
     // Getters

@@ -43,7 +43,6 @@ class Inimigo: public Personagem {
 
         // Métodos
         int atacar() override;
-        bool defender() override;
         bool temDrop() const;
         void receberDano(int dano) override;
         // Provisao sorteiaProvisao();

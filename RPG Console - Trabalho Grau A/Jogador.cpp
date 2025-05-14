@@ -106,7 +106,7 @@ int Jogador::atacar() {
     bool escolheuTestar = false;
     bool resultadoSorte = false;
 
-    std::cout << nome << " deseja testar a sorte antes do ataque? (1 = SIM / 0 = NÃO): ";
+    std::cout << nome << " deseja testar a sorte antes do ataque? (1 = SIM / 0 = NAO): ";
     std::cin >> escolheuTestar;
 
     if(escolheuTestar) {
