@@ -20,6 +20,7 @@ void pratosLavados(Pilha<int>* pilha) {
 		if (!pilha->full()) {
 			pilha->push(1);
 		}
+	}
 }
 
 void pratosSecados(Pilha<int>* pilha) {
